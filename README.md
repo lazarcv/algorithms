@@ -1,2 +1,2 @@
-# algorithms
+# Algorithms
 Some of basic algorithms including: graph representation, DFS, BFS, topological sorting, path finding algorithms...
